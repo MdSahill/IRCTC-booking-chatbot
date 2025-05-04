@@ -1,0 +1,11 @@
+flask>=2.0.0
+langchain>=0.1.0
+openai>=1.0.0
+python-dotenv>=1.0.0
+httpx>=0.25.0
+
+flask[async]>=2.0.0
+flask-login>=0.6.0
+flask-sqlalchemy>=3.0.0
+flask-wtf>=1.0.0
+werkzeug>=2.0.0
