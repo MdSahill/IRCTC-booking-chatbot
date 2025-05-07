@@ -21,3 +21,7 @@
 3. Trigger email/calendar tools<br>
 4. Return confirmation
 #### 3.Notification System:
+-Composio handles Gmail/Calendar APIs<br>
+-Async execution for reliability
+## 🧠 Model Architecture
+![deepseek_mermaid_20250507_c38485](https://github.com/user-attachments/assets/c987fc25-72fd-48dd-af36-b79a558ac511)
