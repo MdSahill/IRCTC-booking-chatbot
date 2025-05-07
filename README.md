@@ -2,16 +2,16 @@
 ### An AI-powered chatbot for train ticket booking with email notifications and calendar integration.
 
 ## 🌟 Features
--Natural language train search & booking
--Secure user authentication
--Email confirmations via Gmail
--Google Calendar reminders
--Responsive web interface
+-Natural language train search & booking<br>
+-Secure user authentication<br>
+-Email confirmations via Gmail<br>
+-Google Calendar reminders<br>
+-Responsive web interface<br>
 
 ## 🛠️ End-to-End Pipeline
 ![deepseek_mermaid_20250507_e332c0](https://github.com/user-attachments/assets/3499626d-08a3-46b3-9ebe-d00ed86e9315)
 ### Pipeline Stages:
 #### 1.Input Processing:
 
--LangChain routes user queries
+-LangChain routes user queries<br>
 -GPT-3.5 extracts entities (dates/stations)
