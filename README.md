@@ -3,13 +3,9 @@
 
 ## 🌟 Features
 -Natural language train search & booking
-
 -Secure user authentication
-
 -Email confirmations via Gmail
-
 -Google Calendar reminders
-
 -Responsive web interface
 
 ## 🛠️ End-to-End Pipeline
@@ -18,5 +14,4 @@
 #### 1.Input Processing:
 
 -LangChain routes user queries
-
 -GPT-3.5 extracts entities (dates/stations)
