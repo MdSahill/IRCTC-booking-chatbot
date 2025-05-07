@@ -14,3 +14,9 @@
 
 ## 🛠️ End-to-End Pipeline
 ![deepseek_mermaid_20250507_e332c0](https://github.com/user-attachments/assets/3499626d-08a3-46b3-9ebe-d00ed86e9315)
+### Pipeline Stages:
+#### 1.Input Processing:
+
+-LangChain routes user queries
+
+-GPT-3.5 extracts entities (dates/stations)
