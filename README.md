@@ -34,11 +34,11 @@
 | **Notification**| Composio |
 
 ## 🚀 Setup Guide
-### 1. Install dependencies:
+#### 1. Install dependencies:
 ```python
 pip install -r requirements.txt
 ```
-### 2. Configure .env:
+#### 2. Configure .env:
 ```python
 OPENAI_API_KEY=your_key
 IRCTC_API_KEY=rapidapi_key
