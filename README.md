@@ -25,3 +25,10 @@
 -Async execution for reliability
 ## 🧠 Model Architecture
 ![deepseek_mermaid_20250507_c38485](https://github.com/user-attachments/assets/c987fc25-72fd-48dd-af36-b79a558ac511)
+### Key Components:
+| Component       | Technology |        
+|-----------------|------------|
+| **NLU Engine**  | OpenAI GPT-3.5 |
+| **Tool Agent**  | LangChain |
+| **Auth System** | Flask-Login |
+| **Notification**| Composio |
