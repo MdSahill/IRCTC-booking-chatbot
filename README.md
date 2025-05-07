@@ -1,2 +1,3 @@
 # IRCTC-booking-chatbot
-This is AI agent project
+# IRCTC AI Booking Assistant 🚆
+### An AI-powered chatbot for train ticket booking with email notifications and calendar integration.
