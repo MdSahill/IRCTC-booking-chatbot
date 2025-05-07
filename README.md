@@ -15,3 +15,9 @@
 
 -LangChain routes user queries<br>
 -GPT-3.5 extracts entities (dates/stations)
+#### 2.Backend Operations:
+1. Validate input<br>
+2. Call IRCTC API <br>
+3. Trigger email/calendar tools<br>
+4. Return confirmation
+#### 3.Notification System:
