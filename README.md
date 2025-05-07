@@ -32,3 +32,19 @@
 | **Tool Agent**  | LangChain |
 | **Auth System** | Flask-Login |
 | **Notification**| Composio |
+
+## 🚀 Setup Guide
+1. Install dependencies:
+```python
+pip install -r requirements.txt
+```
+2. Configure .env:
+```python
+OPENAI_API_KEY=your_key
+IRCTC_API_KEY=rapidapi_key
+COMPOSIO_API_KEY=your_composio_key
+```
+3. Run the app:
+```python
+python app.py
+```
